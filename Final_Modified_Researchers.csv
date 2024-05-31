@@ -1,0 +1,697 @@
+Country,TIME,Value
+Austria,2016,5401.30362
+Austria,2017,5416.8937
+Austria,2018,5683.24278
+Austria,2019,5959.54993
+Austria,2020,5829.83733
+Austria,2021,6341.73871
+Belgium,2016,4811.19473
+Belgium,2017,4757.92552
+Belgium,2018,5032.36782
+Belgium,2019,5280.4219
+Belgium,2020,5410.83206
+Belgium,2021,6581.89232
+Canada,2016,4428.17296
+Canada,2017,4467.15612
+Canada,2018,4758.10247
+Canada,2019,4894.20732
+Canada,2020,5076.24404
+Czechia,2016,3547.21523
+Czechia,2017,3721.12215
+Czechia,2018,3911.20711
+Czechia,2019,4033.88589
+Czechia,2020,4194.94528
+Czechia,2021,4568.60692
+Denmark,2016,7873.96871
+Denmark,2017,7683.44205
+Denmark,2018,7635.77738
+Denmark,2019,7727.23923
+Denmark,2020,7667.30376
+Denmark,2021,7707.72522
+Finland,2016,6543.96586
+Finland,2017,6731.79223
+Finland,2018,6872.98388
+Finland,2019,7246.27201
+Finland,2020,7548.50264
+Finland,2021,7870.6534
+France,2016,4467.42812
+France,2017,4624.69676
+France,2018,4756.58412
+France,2019,4870.45612
+France,2020,4986.1801
+France,2021,5175.00557
+Germany,2016,4862.6252
+Germany,2017,5087.25427
+Germany,2018,5239.97188
+Germany,2019,5428.21538
+Germany,2020,5413.82418
+Germany,2021,5535.95429
+Greece,2016,2728.34421
+Greece,2017,3264.14594
+Greece,2018,3441.0649
+Greece,2019,3684.86922
+Greece,2020,4073.54743
+Greece,2021,4326.3066
+Hungary,2016,2624.60598
+Hungary,2017,2901.01543
+Hungary,2018,3845.49153
+Hungary,2019,4020.57775
+Hungary,2020,4308.95424
+Hungary,2021,4452.15175
+Iceland,2016,6629.2432
+Iceland,2017,6054.68115
+Iceland,2018,5879.26569
+Iceland,2021,6940.41702
+Ireland,2016,5184.71517
+Ireland,2017,5155.37079
+Ireland,2018,4749.61714
+Ireland,2019,4836.0744
+Ireland,2020,4858.6072
+Ireland,2021,5250.68228
+Italy,2016,2222.20841
+Italy,2017,2336.93888
+Italy,2018,2541.03826
+Italy,2019,2688.64671
+Italy,2020,2632.27982
+Italy,2021,2677.84078
+Japan,2016,5235.15675
+Japan,2017,5331.27133
+Japan,2018,5361.96599
+Japan,2019,5409.53544
+Japan,2020,5495.25074
+Japan,2021,5638.41792
+South Korea,2016,7056.34297
+South Korea,2017,7450.5576
+South Korea,2018,7913.5015
+South Korea,2019,8322.58762
+South Korea,2020,8614.63518
+South Korea,2021,9081.93585
+Luxembourg,2016,4802.84536
+Luxembourg,2017,4971.16521
+Luxembourg,2018,4756.47013
+Luxembourg,2019,5092.30827
+Luxembourg,2020,4690.30266
+Luxembourg,2021,4940.60373
+Mexico,2016,321.8083
+Mexico,2017,320.14698
+Mexico,2018,317.40691
+Mexico,2019,335.13871
+Mexico,2020,357.97889
+Mexico,2021,384.08649
+Netherlands,2016,5128.77161
+Netherlands,2017,5302.34455
+Netherlands,2018,5535.47607
+Netherlands,2019,5640.24547
+Netherlands,2020,5865.72665
+Netherlands,2021,6074.31065
+New Zealand,2017,5098.76412
+New Zealand,2019,5724.13122
+New Zealand,2021,5102.2701
+Norway,2016,6120.12967
+Norway,2017,6395.43983
+Norway,2018,6483.52599
+Norway,2019,6736.85143
+Norway,2020,6765.33242
+Norway,2021,7227.93066
+Poland,2016,2288.0817
+Poland,2017,2973.76616
+Poland,2018,3056.76772
+Poland,2019,3136.39045
+Poland,2020,3238.20911
+Poland,2021,3534.49865
+Portugal,2016,3995.62552
+Portugal,2017,4355.7475
+Portugal,2018,4627.17238
+Portugal,2019,4879.31874
+Portugal,2020,5163.35335
+Portugal,2021,5473.44704
+Portugal,2022,5742.97209
+Slovakia,2016,2607.20126
+Slovakia,2017,2801.07321
+Slovakia,2018,3001.40432
+Slovakia,2019,3114.86275
+Slovakia,2020,3165.59494
+Slovakia,2021,3211.04404
+Spain,2016,2727.42868
+Spain,2017,2863.75013
+Spain,2018,3003.56286
+Spain,2019,3067.66122
+Spain,2020,3071.44816
+Spain,2021,3251.74281
+Sweden,2016,7107.98056
+Sweden,2017,7308.65913
+Sweden,2018,7433.21055
+Sweden,2019,7697.83607
+Sweden,2020,7759.49884
+Sweden,2021,8130.79112
+Switzerland,2017,5258.54316
+Switzerland,2019,5562.95061
+Switzerland,2021,6022.74647
+Türkiye,2016,1246.89301
+Türkiye,2017,1369.34598
+Türkiye,2018,1530.90472
+Türkiye,2019,1629.73242
+Türkiye,2020,1786.51708
+Türkiye,2021,1999.53412
+United Kingdom of Great Britain and Northern Ireland,2016,4448.35197
+United Kingdom of Great Britain and Northern Ireland,2017,4491.317
+United States of America,2016,3830.4626
+United States of America,2017,3958.56396
+United States of America,2018,4261.98949
+United States of America,2019,4308.87396
+United States of America,2020,4451.78104
+Argentina,2016,1260.70106
+Argentina,2017,1212.45726
+Argentina,2018,1227.40422
+Argentina,2019,1231.51703
+Argentina,2020,1256.26717
+Argentina,2021,1283.79869
+Bolivia (Plurinational State of),2017,49.83286
+Bolivia (Plurinational State of),2019,58.31368
+Bolivia (Plurinational State of),2021,62.37397
+Brunei Darussalam,2022,513.56362
+Bulgaria,2016,2198.80821
+Bulgaria,2017,2092.08124
+Bulgaria,2018,2310.61903
+Bulgaria,2019,2391.02454
+Bulgaria,2020,2377.55574
+Bulgaria,2021,2339.25243
+Colombia,2016,90.92885
+Colombia,2017,89.86123
+Congo,2022,128.24961
+Costa Rica,2016,523.11853
+Costa Rica,2017,378.87941
+Costa Rica,2018,343.77862
+Costa Rica,2020,365.69417
+Costa Rica,2021,399.35022
+Croatia,2016,1837.36663
+Croatia,2017,1856.81189
+Croatia,2018,1912.06832
+Croatia,2019,2127.93472
+Croatia,2020,2214.7751
+Croatia,2021,2330.90633
+Cyprus,2016,1058.56405
+Cyprus,2017,1209.63685
+Cyprus,2018,1408.18017
+Cyprus,2019,1657.72538
+Cyprus,2020,1739.85507
+Cyprus,2021,1743.28995
+Egypt,2016,659.06477
+Egypt,2017,647.85695
+Egypt,2018,657.59182
+Egypt,2019,791.01117
+Egypt,2020,804.91071
+Egypt,2021,821.7045
+Egypt,2022,841.40224
+Estonia,2016,3296.20731
+Estonia,2017,3552.23048
+Estonia,2018,3765.62187
+Estonia,2019,3769.83693
+Estonia,2020,3835.71868
+Estonia,2021,4038.19516
+Ethiopia,2017,90.24062
+Guatemala,2016,22.67179
+Guatemala,2017,14.47812
+Guatemala,2018,13.27843
+Guatemala,2019,14.95745
+Guatemala,2020,17.29424
+Guatemala,2021,14.51904
+India,2018,251.01397
+India,2020,260.38328
+Jordan,2016,575.32083
+Jordan,2017,577.9223
+Kuwait,2016,465.2199
+Kuwait,2017,504.9046
+Kuwait,2018,503.72785
+Kuwait,2019,175.58415
+Kuwait,2020,165.83262
+Kuwait,2022,181.98084
+Latvia,2016,1589.81469
+Latvia,2017,1772.61368
+Latvia,2018,1776.50389
+Latvia,2019,1885.90386
+Latvia,2020,2135.01786
+Latvia,2021,2404.52392
+Lithuania,2016,2891.36342
+Lithuania,2017,2994.60998
+Lithuania,2018,3092.74534
+Lithuania,2019,3364.46717
+Lithuania,2020,3590.74721
+Lithuania,2021,3935.08527
+North Macedonia,2016,842.85206
+North Macedonia,2017,719.23357
+North Macedonia,2018,788.03723
+North Macedonia,2019,775.3953
+North Macedonia,2020,775.23718
+North Macedonia,2021,743.68667
+North Macedonia,2022,642.37487
+Madagascar,2016,24.43313
+Madagascar,2017,30.30991
+Madagascar,2018,33.72828
+Malaysia,2016,2349.77281
+Malaysia,2018,2139.51967
+Malaysia,2020,726.45719
+Malta,2016,1939.75502
+Malta,2017,1970.44959
+Malta,2018,1866.12509
+Malta,2019,1886.77729
+Malta,2020,1983.92841
+Malta,2021,2160.72659
+Republic of Moldova,2016,912.00965
+Republic of Moldova,2017,923.49386
+Republic of Moldova,2018,903.41782
+Republic of Moldova,2019,823.53362
+Republic of Moldova,2020,774.67919
+Republic of Moldova,2021,781.24167
+Republic of Moldova,2022,768.02221
+Myanmar,2017,29.79052
+Myanmar,2018,33.86079
+Myanmar,2019,30.17835
+Myanmar,2020,32.55807
+Myanmar,2021,18.96736
+Pakistan,2017,324.85582
+Pakistan,2019,374.40653
+Pakistan,2021,415.30243
+Panama,2016,96.95523
+Panama,2017,105.8816
+Panama,2018,107.23832
+Panama,2019,110.72686
+Panama,2020,167.62235
+Panama,2021,134.62088
+Panama,2022,142.03242
+Paraguay,2016,131.92398
+Paraguay,2017,147.04097
+Paraguay,2018,151.8835
+Paraguay,2019,168.95293
+Paraguay,2020,140.87852
+Paraguay,2021,142.39946
+Philippines,2018,172.00786
+Romania,2016,908.9898
+Romania,2017,887.30938
+Romania,2018,875.76242
+Romania,2019,887.07363
+Romania,2020,940.54664
+Romania,2021,985.49335
+Russia,2016,2959.96583
+Russia,2017,2825.53951
+Russia,2018,2787.2464
+Russia,2019,2749.48531
+Russia,2020,2724.90717
+Russia,2021,2675.55474
+Russia,2022,2697.89248
+Rwanda,2016,13.72771
+Rwanda,2019,58.50478
+Singapore,2016,6897.04458
+Singapore,2017,6777.63699
+Singapore,2018,6786.69594
+Singapore,2019,7275.63158
+Singapore,2020,7224.74807
+Slovenia,2016,3892.97227
+Slovenia,2017,4440.84494
+Slovenia,2018,4788.84668
+Slovenia,2019,4980.42048
+Slovenia,2020,5124.62599
+Slovenia,2021,5223.00015
+South Africa,2016,489.20081
+South Africa,2017,524.14553
+South Africa,2018,510.97357
+South Africa,2019,491.40996
+South Africa,2020,472.68092
+Thailand,2016,1183.14274
+Thailand,2017,1320.63055
+Thailand,2018,1718.45617
+Thailand,2019,1749.91905
+Thailand,2020,2023.83061
+Thailand,2021,1699.05923
+Tunisia,2016,1942.66881
+Tunisia,2017,1893.23867
+Tunisia,2018,1765.24484
+Tunisia,2019,1701.58107
+Tunisia,2020,1620.48515
+Tunisia,2021,1584.24254
+Tunisia,2022,1671.98851
+Ukraine,2016,1037.24086
+Ukraine,2017,994.07744
+Ukraine,2018,988.07663
+Ukraine,2019,880.55411
+Ukraine,2020,846.24846
+Ukraine,2021,752.81183
+Ukraine,2022,580.81066
+Uruguay,2016,731.95725
+Uruguay,2017,749.07945
+Uruguay,2018,779.43961
+Uruguay,2019,795.96424
+Uruguay,2020,813.23793
+Uruguay,2021,838.50792
+Venezuela (Bolivarian Republic of),2016,292.0226
+Venezuela (Bolivarian Republic of),2019,230.67055
+Venezuela (Bolivarian Republic of),2020,289.18399
+Venezuela (Bolivarian Republic of),2021,275.85283
+Venezuela (Bolivarian Republic of),2022,351.97235
+Serbia,2016,2121.8924
+Serbia,2017,2067.73261
+Serbia,2018,2075.98604
+Serbia,2019,2087.27636
+Serbia,2020,2149.85336
+Serbia,2021,2206.70833
+Serbia,2022,2349.67681
+Algeria,2017,832.42282
+Bosnia and Herzegovina,2016,406.14245
+Bosnia and Herzegovina,2017,470.16902
+Bosnia and Herzegovina,2018,458.03728
+Bosnia and Herzegovina,2019,449.22435
+Bosnia and Herzegovina,2020,443.8526
+Bosnia and Herzegovina,2021,442.83083
+Bosnia and Herzegovina,2022,535.00491
+Chile,2016,500.26783
+Chile,2017,499.76146
+Chile,2018,529.07151
+Chile,2019,512.46593
+Chile,2020,518.66667
+China,2016,1210.74113
+China,2017,1237.74195
+China,2018,1319.35596
+China,2019,1485.81754
+China,2020,1601.92217
+China,2021,1687.05679
+Indonesia,2016,179.60322
+Indonesia,2017,216.37348
+Indonesia,2018,217.51867
+Indonesia,2019,391.34138
+Indonesia,2020,399.60761
+Iran (Islamic Republic of),2017,1417.97595
+Iran (Islamic Republic of),2019,1597.33931
+Iraq,2016,61.98544
+Iraq,2017,101.61423
+Iraq,2018,106.5256
+Iraq,2019,117.28555
+Iraq,2020,135.29593
+Iraq,2021,162.45588
+Kenya,2022,169.27141
+Mali,2017,32.0137
+Mali,2019,56.61281
+Mali,2021,29.31642
+Morocco,2016,1080.70684
+Nigeria,2019,22.82526
+Sri Lanka,2016,105.03859
+Sri Lanka,2017,104.71218
+Sri Lanka,2018,104.06004
+Sri Lanka,2020,104.55117
+Togo,2016,31.93673
+Togo,2017,38.46865
+Togo,2018,47.6891
+Togo,2019,46.49953
+Togo,2020,45.29121
+Togo,2021,44.86637
+Togo,2022,44.39714
+Viet Nam,2017,715.4071
+Viet Nam,2019,765.51782
+Viet Nam,2021,779.30847
+Kazakhstan,2016,688.84224
+Kazakhstan,2017,661.72592
+Kazakhstan,2018,662.98622
+Kazakhstan,2019,633.65202
+Kazakhstan,2020,686.17575
+Kazakhstan,2021,626.47176
+Kazakhstan,2022,681.50598
+Gambia,2018,49.97694
+Montenegro,2016,708.58413
+Montenegro,2017,696.82667
+Montenegro,2018,757.903
+Montenegro,2019,743.38011
+Oman,2016,249.89385
+Oman,2017,251.47211
+Oman,2018,296.09371
+Oman,2019,382.4452
+Oman,2020,372.68235
+Oman,2021,330.34504
+Oman,2022,381.76595
+Uzbekistan,2016,509.89434
+Uzbekistan,2017,499.59238
+Uzbekistan,2018,480.43229
+Uzbekistan,2019,421.46492
+Uzbekistan,2020,426.82076
+Uzbekistan,2021,525.33211
+Uzbekistan,2022,547.49145
+Angola,2016,18.9549
+Mauritius,2018,463.61583
+Mauritius,2019,540.26017
+Mauritius,2020,552.95846
+Mauritius,2021,556.9283
+Mauritius,2022,569.00982
+Georgia,2016,1391.42457
+Georgia,2017,1389.60565
+Georgia,2018,1553.30612
+Georgia,2019,1799.87186
+Georgia,2020,1812.39011
+Georgia,2021,1717.37086
+Georgia,2022,1823.0265
+Qatar,2018,584.50501
+Qatar,2021,982.50091
+Latin America and the Caribbean,2016,575.77973
+Latin America and the Caribbean,2017,583.65112
+Latin America and the Caribbean,2018,605.14232
+Latin America and the Caribbean,2019,608.82277
+Latin America and the Caribbean,2020,623.4793
+Latin America and the Caribbean,2021,625.3635
+South and West Asia,2016,251.50944
+South and West Asia,2017,277.29272
+South and West Asia,2018,292.84363
+South and West Asia,2019,303.18463
+South and West Asia,2020,308.94516
+South and West Asia,2021,311.19348
+Sub-Saharan Africa,2016,94.74362
+Sub-Saharan Africa,2017,97.98991
+Sub-Saharan Africa,2018,97.60634
+Sub-Saharan Africa,2019,96.68346
+Sub-Saharan Africa,2020,95.0988
+Sub-Saharan Africa,2021,94.37717
+East Asia and the Pacific,2016,1479.00023
+East Asia and the Pacific,2017,1515.86346
+East Asia and the Pacific,2018,1590.51329
+East Asia and the Pacific,2019,1715.81471
+East Asia and the Pacific,2020,1793.7816
+East Asia and the Pacific,2021,1851.08244
+North America and Western Europe,2016,4097.89816
+North America and Western Europe,2017,4230.15237
+North America and Western Europe,2018,4451.29541
+North America and Western Europe,2019,4559.51401
+North America and Western Europe,2020,4651.79884
+North America and Western Europe,2021,4745.77224
+Central and Eastern Europe,2016,2083.19801
+Central and Eastern Europe,2017,2134.5507
+Central and Eastern Europe,2018,2200.20097
+Central and Eastern Europe,2019,2219.27529
+Central and Eastern Europe,2020,2266.2489
+Central and Eastern Europe,2021,2332.30779
+Central Asia,2016,606.66233
+Central Asia,2017,585.47429
+Central Asia,2018,580.41054
+Central Asia,2019,628.26189
+Central Asia,2020,641.50829
+Central Asia,2021,662.43347
+Arab States,2016,564.964
+Arab States,2017,569.15745
+Arab States,2018,567.39362
+Arab States,2019,599.67075
+Arab States,2020,601.92507
+Arab States,2021,629.79235
+World,2016,1164.61254
+World,2017,1195.1174
+World,2018,1244.70302
+World,2019,1294.48198
+World,2020,1326.85573
+World,2021,1352.49955
+El Salvador,2016,66.97769
+El Salvador,2017,65.01456
+El Salvador,2018,72.8499
+El Salvador,2019,75.00583
+El Salvador,2020,59.22697
+El Salvador,2021,64.71527
+United Arab Emirates,2016,2490.70229
+United Arab Emirates,2018,2516.4252
+United Arab Emirates,2019,2536.50717
+United Arab Emirates,2020,2612.33265
+United Arab Emirates,2021,2666.01537
+Central Asia,2016,481.14119
+Central Asia,2017,465.84162
+Central Asia,2018,458.58299
+Central Asia,2019,424.85232
+Central Asia,2020,442.38405
+Central Asia,2021,471.52427
+Oceania,2016,3456.98512
+Oceania,2017,3421.9255
+Oceania,2018,3445.07712
+Oceania,2019,3441.25398
+Oceania,2020,3367.78399
+Oceania,2021,3324.46003
+Northern Africa,2016,714.26756
+Northern Africa,2017,714.65917
+Northern Africa,2018,710.3854
+Northern Africa,2019,762.48852
+Northern Africa,2020,762.88415
+Northern Africa,2021,766.75351
+Eastern Asia,2016,1742.15512
+Eastern Asia,2017,1784.70414
+Eastern Asia,2018,1872.64045
+Eastern Asia,2019,2034.14384
+Eastern Asia,2020,2149.93653
+Eastern Asia,2021,2249.9251
+World,2016,1164.61254
+World,2017,1195.1174
+World,2018,1244.70302
+World,2019,1294.48198
+World,2020,1326.85573
+World,2021,1352.49955
+Western Asia,2016,924.44124
+Western Asia,2017,963.44066
+Western Asia,2018,1011.50598
+Western Asia,2019,1066.91751
+Western Asia,2020,1114.19897
+Western Asia,2021,1215.38326
+Small Island Developing States,2016,865.02168
+Small Island Developing States,2017,857.13231
+Small Island Developing States,2018,863.48188
+Small Island Developing States,2019,908.88323
+Small Island Developing States,2020,934.19939
+Small Island Developing States,2021,931.17145
+Sub-Saharan Africa,2016,95.63452
+Sub-Saharan Africa,2017,99.07435
+Sub-Saharan Africa,2018,98.90001
+Sub-Saharan Africa,2019,97.98225
+Sub-Saharan Africa,2020,96.40406
+Sub-Saharan Africa,2021,95.68491
+Middle income countries,2016,656.43771
+Middle income countries,2017,671.92402
+Middle income countries,2018,703.62153
+Middle income countries,2019,752.65724
+Middle income countries,2020,782.40826
+Middle income countries,2021,798.10677
+Southern Asia,2016,251.50944
+Southern Asia,2017,277.29272
+Southern Asia,2018,292.84363
+Southern Asia,2019,303.18463
+Southern Asia,2020,308.94516
+Southern Asia,2021,311.19348
+Europe and Northern America,2016,3536.44671
+Europe and Northern America,2017,3643.60585
+Europe and Northern America,2018,3816.5247
+Europe and Northern America,2019,3896.47142
+Europe and Northern America,2020,3971.22555
+Europe and Northern America,2021,4049.7192
+South-Eastern Asia,2016,713.19901
+South-Eastern Asia,2017,743.26361
+South-Eastern Asia,2018,791.29329
+South-Eastern Asia,2019,841.03435
+South-Eastern Asia,2020,842.74151
+South-Eastern Asia,2021,812.07631
+Landlocked Developing Countries,2016,158.78502
+Landlocked Developing Countries,2017,158.15916
+Landlocked Developing Countries,2018,157.02849
+Landlocked Developing Countries,2019,164.78766
+Landlocked Developing Countries,2020,166.02706
+Landlocked Developing Countries,2021,169.34228
+Europe,2016,3364.81231
+Europe,2017,3464.79641
+Europe,2018,3572.60203
+Europe,2019,3662.84499
+Europe,2020,3700.01547
+Europe,2021,3816.56734
+Low income countries,2016,165.19514
+Low income countries,2017,170.43873
+Low income countries,2018,174.51142
+Low income countries,2019,176.76931
+Low income countries,2020,176.03152
+Low income countries,2021,176.19841
+Least Developed Countries,2016,67.45107
+Least Developed Countries,2017,70.28555
+Least Developed Countries,2018,72.01722
+Least Developed Countries,2019,72.63639
+Least Developed Countries,2020,73.21338
+Least Developed Countries,2021,72.47363
+Australia and New Zealand,2016,4856.40059
+Australia and New Zealand,2017,4812.07203
+Australia and New Zealand,2018,4850.1384
+Australia and New Zealand,2019,4848.78832
+Australia and New Zealand,2020,4746.72045
+Australia and New Zealand,2021,4695.85642
+Upper middle income countries,2016,1056.44277
+Upper middle income countries,2017,1073.73363
+Upper middle income countries,2018,1131.23596
+Upper middle income countries,2019,1227.75776
+Upper middle income countries,2020,1290.77707
+Upper middle income countries,2021,1327.73922
+Northern Africa and Western Asia,2016,827.05696
+Northern Africa and Western Asia,2017,848.00944
+Northern Africa and Western Asia,2018,871.41144
+Northern Africa and Western Asia,2019,925.13991
+Northern Africa and Western Asia,2020,950.42232
+Northern Africa and Western Asia,2021,1005.26919
+Small Island Developing States,2016,831.54331
+Small Island Developing States,2017,824.98939
+Small Island Developing States,2018,831.76129
+Small Island Developing States,2019,875.01595
+Small Island Developing States,2020,899.32435
+Small Island Developing States,2021,896.93722
+Eastern and South-Eastern Asia,2016,1442.08631
+Eastern and South-Eastern Asia,2017,1479.83792
+Eastern and South-Eastern Asia,2018,1554.95594
+Eastern and South-Eastern Asia,2019,1682.00999
+Eastern and South-Eastern Asia,2020,1762.23808
+Eastern and South-Eastern Asia,2021,1821.08458
+High income countries,2016,4012.11356
+High income countries,2017,4150.19862
+High income countries,2018,4332.22794
+High income countries,2019,4435.99109
+High income countries,2020,4525.29044
+High income countries,2021,4650.31329
+Latin America and the Caribbean,2016,575.76925
+Latin America and the Caribbean,2017,583.63985
+Latin America and the Caribbean,2018,605.13041
+Latin America and the Caribbean,2019,608.8138
+Latin America and the Caribbean,2020,623.47127
+Latin America and the Caribbean,2021,625.35588
+Central and Southern Asia,2016,259.75119
+Central and Southern Asia,2017,284.08643
+Central and Southern Asia,2018,298.83612
+Central and Southern Asia,2019,307.60152
+Central and Southern Asia,2020,313.81061
+Central and Southern Asia,2021,317.06809
+Northern America ,2016,3888.67315
+Northern America ,2017,4008.06111
+Northern America ,2018,4310.37676
+Northern America ,2019,4366.53201
+Northern America ,2020,4513.68419
+Northern America ,2021,4513.88898
+Lower middle income countries,2016,282.35026
+Lower middle income countries,2017,298.89992
+Lower middle income countries,2018,309.5275
+Lower middle income countries,2019,318.34449
+Lower middle income countries,2020,321.51138
+Lower middle income countries,2021,322.50614
+Papua New Guinea,2016,33.39192
+Honduras,2017,34.2629
+Honduras,2018,201.23932
+Honduras,2019,187.42656
+Chad,2016,58.7568
+Syrian Arab Republic,2022,142.01291
+Trinidad and Tobago,2017,485.81699
+Trinidad and Tobago,2018,531.20922
+Trinidad and Tobago,2019,449.53834
+Trinidad and Tobago,2020,590.52778
+Trinidad and Tobago,2021,525.48815
+Burundi,2018,23.19512
+Azerbaijan,2019,1694.46991
+Azerbaijan,2020,1712.16743
+Azerbaijan,2021,1728.76393
+Azerbaijan,2022,1690.6737
+Belarus,2020,1433.59248
+Belarus,2021,1393.54477
+Belarus,2022,1381.79486
+Mongolia,2020,332.19112
+Mongolia,2021,680.27068
+Mongolia,2022,533.64037
+Saudi Arabia,2020,435.44058
+Saudi Arabia,2021,692.33959
+Saudi Arabia,2022,834.80573
+Armenia,2022,1219.93327

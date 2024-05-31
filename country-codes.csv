@@ -1,0 +1,196 @@
+Continent,Country,cca2,cca3,Country Code,Classification
+Africa,Algeria,DZ,DZA,DZA,Lower Income
+Africa,Angola,AO,AGO,AGO,Lower Income
+Africa,Benin,BJ,BEN,BEN,Lower Income
+Africa,Botswana,BW,BWA,BWA,Lower Income
+Africa,Burkina Faso,BF,BFA,BFA,Lower Income
+Africa,Burundi,BI,BDI,BDI,Lower Income
+Africa,Cameroon,CM,CMR,CMR,Lower Income
+Africa,Cape Verde,CV,CPV,CPV,Lower Income
+Africa,Central African Republic,CF,CAF,CAF,Lower Income
+Africa,Chad,TD,TCD,TCD,Lower Income
+Africa,Comoros,KM,COM,COM,Lower Income
+Africa,Republic of the Congo,CG,COG,COG,Lower Income
+Africa,DR Congo,CD,COD,COD,Lower Income
+Africa,Djibouti,DJ,DJI,DJI,Lower Income
+Africa,Egypt,EG,EGY,EGY,Lower Income
+Africa,Equatorial Guinea,GQ,GNQ,GNQ,Lower Income
+Africa,Eritrea,ER,ERI,ERI,Lower Income
+Africa,Ethiopia,ET,ETH,ETH,Lower Income
+Africa,Gabon,GA,GAB,GAB,Lower Income
+Africa,Gambia,GM,GMB,GMB,Lower Income
+Africa,Ghana,GH,GHA,GHA,Lower Income
+Africa,Guinea,GN,GIN,GIN,Lower Income
+Africa,Guinea-Bissau,GW,GNB,GNB,Lower Income
+Africa,Ivory Coast,CI,CIV,CIV,Lower Income
+Africa,Kenya,KE,KEN,KEN,Lower Income
+Africa,Lesotho,LS,LSO,LSO,Lower Income
+Africa,Liberia,LR,LBR,LBR,Lower Income
+Africa,Libya,LY,LBY,LBY,Lower Income
+Africa,Madagascar,MG,MDG,MDG,Lower Income
+Africa,Malawi,MW,MWI,MWI,Lower Income
+Africa,Mali,ML,MLI,MLI,Lower Income
+Africa,Mauritania,MR,MRT,MRT,Lower Income
+Africa,Mauritius,MU,MUS,MUS,Lower Income
+Africa,Morocco,MA,MAR,MAR,Lower Income
+Africa,Mozambique,MZ,MOZ,MOZ,Lower Income
+Africa,Niger,NE,NER,NER,Lower Income
+Africa,Nigeria,NG,NGA,NGA,Lower Income
+Africa,Rwanda,RW,RWA,RWA,Lower Income
+Africa,Sao Tome and Principe,ST,STP,STP,Lower Income
+Africa,Senegal,SN,SEN,SEN,Lower Income
+Africa,Seychelles,SC,SYC,SYC,Lower Income
+Africa,Sierra Leone,SL,SLE,SLE,Lower Income
+Africa,Somalia,SO,SOM,SOM,Lower Income
+Africa,South Africa,ZA,ZAF,ZAF,Lower Income
+Africa,South Sudan,SS,SSD,SSD,Lower Income
+Africa,Sudan,SD,SDN,SDN,Lower Income
+Africa,Eswatini,SZ,SWZ,SWZ,Lower Income
+Africa,Tanzania,TZ,TZA,TZA,Lower Income
+Africa,Togo,TG,TGO,TGO,Lower Income
+Africa,Tunisia,TN,TUN,TUN,Lower Income
+Africa,Uganda,UG,UGA,UGA,Lower Income
+Africa,Zambia,ZM,ZMB,ZMB,Lower Income
+Africa,Zimbabwe,ZW,ZWE,ZWE,Lower Income
+Asia,Afghanistan,AF,AFG,AFG,Lower Income
+Asia,Bahrain,BH,BHR,BHR,Upper Income
+Asia,Bangladesh,BD,BGD,BGD,Lower Income
+Asia,Bhutan,BT,BTN,BTN,Lower Income
+Asia,Brunei,BN,BRN,BRN,Upper Income
+Asia,Myanmar,MM,MMR,MMR,Lower Income
+Asia,Cambodia,KH,KHM,KHM,Lower Income
+Asia,China,CN,CHN,CHN,Upper Income
+Asia,Timor-Leste,TL,TLS,TLS,Lower Income
+Asia,Hong Kong,HK,HKG,HKG,Upper Income
+Asia,India,IN,IND,IND,Lower Income
+Asia,Indonesia,ID,IDN,IDN,Lower Income
+Asia,Iran,IR,IRN,IRN,Lower Income
+Asia,Iraq,IQ,IRQ,IRQ,Lower Income
+Asia,Israel,IL,ISR,ISR,Upper Income
+Asia,Japan,JP,JPN,JPN,Upper Income
+Asia,Jordan,JO,JOR,JOR,Lower Income
+Asia,Kazakhstan,KZ,KAZ,KAZ,Lower Income
+Asia,North Korea,KP,PRK,PRK,Lower Income
+Asia,South Korea,KR,KOR,KOR,Upper Income
+Asia,Kuwait,KW,KWT,KWT,Upper Income
+Asia,Kyrgyzstan,KG,KGZ,KGZ,Lower Income
+Asia,Laos,LA,LAO,LAO,Lower Income
+Asia,Lebanon,LB,LBN,LBN,Lower Income
+Asia,Malaysia,MY,MYS,MYS,Lower Income
+Asia,Maldives,MV,MDV,MDV,Lower Income
+Asia,Mongolia,MN,MNG,MNG,Lower Income
+Asia,Nepal,NP,NPL,NPL,Lower Income
+Asia,Oman,OM,OMN,OMN,Upper Income
+Asia,Pakistan,PK,PAK,PAK,Lower Income
+Asia,Philippines,PH,PHL,PHL,Lower Income
+Asia,Qatar,QA,QAT,QAT,Upper Income
+Asia,Russia,RU,RUS,RUS,Upper Income
+Asia,Saudi Arabia,SA,SAU,SAU,Upper Income
+Asia,Singapore,SG,SGP,SGP,Upper Income
+Asia,Sri Lanka,LK,LKA,LKA,Lower Income
+Asia,Syria,SY,SYR,SYR,Lower Income
+Asia,Taiwan,TW,TWN,,Lower Income
+Asia,Tajikistan,TJ,TJK,TJK,Lower Income
+Asia,Thailand,TH,THA,THA,Lower Income
+Europe,Turkey,TR,TUR,TUR,Lower Income
+Asia,Turkmenistan,TM,TKM,TKM,Lower Income
+Asia,United Arab Emirates,AE,ARE,ARE,Upper Income
+Asia,Uzbekistan,UZ,UZB,UZB,Lower Income
+Asia,Vietnam,VN,VNM,VNM,Lower Income
+Asia,Yemen,YE,YEM,YEM,Lower Income
+Europe,Albania,AL,ALB,ALB,Lower Income
+Europe,Andorra,AD,AND,AND,Upper Income
+Europe,Armenia,AM,ARM,ARM,Lower Income
+Europe,Austria,AT,AUT,AUT,Upper Income
+Europe,Azerbaijan,AZ,AZE,AZE,Lower Income
+Europe,Belarus,BY,BLR,BLR,Lower Income
+Europe,Belgium,BE,BEL,BEL,Upper Income
+Europe,Bosnia and Herzegovina,BA,BIH,BIH,Lower Income
+Europe,Bulgaria,BG,BGR,BGR,Upper Income
+Europe,Croatia,HR,HRV,HRV,Upper Income
+Europe,Cyprus,CY,CYP,CYP,Upper Income
+Europe,Czech Republic,CZ,CZE,CZE,Upper Income
+Europe,Denmark,DK,DNK,DNK,Upper Income
+Europe,Estonia,EE,EST,EST,Upper Income
+Europe,Finland,FI,FIN,FIN,Upper Income
+Europe,France,FR,FRA,FRA,Upper Income
+Europe,Georgia,GE,GEO,GEO,Lower Income
+Europe,Germany,DE,DEU,DEU,Upper Income
+Europe,Greece,GR,GRC,GRC,Upper Income
+Europe,Hungary,HU,HUN,HUN,Upper Income
+Europe,Iceland,IS,ISL,ISL,Upper Income
+Europe,Ireland,IE,IRL,IRL,Upper Income
+Europe,Italy,IT,ITA,ITA,Upper Income
+Europe,Latvia,LV,LVA,LVA,Upper Income
+Europe,Liechtenstein,LI,LIE,LIE,Upper Income
+Europe,Lithuania,LT,LTU,LTU,Upper Income
+Europe,Luxembourg,LU,LUX,LUX,Upper Income
+Europe,North Macedonia,MK,MKD,MKD,Lower Income
+Europe,Malta,MT,MLT,MLT,Upper Income
+Europe,Moldova,MD,MDA,MDA,Lower Income
+Europe,Monaco,MC,MCO,MCO,Lower Income
+Europe,Montenegro,ME,MNE,MNE,Lower Income
+Europe,Netherlands,NL,NLD,NLD,Upper Income
+Europe,Norway,NO,NOR,NOR,Upper Income
+Europe,Poland,PL,POL,POL,Upper Income
+Europe,Portugal,PT,PRT,PRT,Upper Income
+Europe,Romania,RO,ROU,ROU,Upper Income
+Europe,San Marino,SM,SMR,SMR,Upper Income
+Europe,Serbia,RS,SRB,SRB,Lower Income
+Europe,Slovakia,SK,SVK,SVK,Upper Income
+Europe,Slovenia,SI,SVN,SVN,Upper Income
+Europe,Spain,ES,ESP,ESP,Upper Income
+Europe,Sweden,SE,SWE,SWE,Upper Income
+Europe,Switzerland,CH,CHE,CHE,Upper Income
+Europe,Ukraine,UA,UKR,UKR,Lower Income
+Europe,United Kingdom,GB,GBR,GBR,Upper Income
+Europe,Vatican City,VA,VAT,,Lower Income
+North America,Antigua and Barbuda,AG,ATG,ATG,Upper Income
+North America,Bahamas,BS,BHS,BHS,Upper Income
+North America,Barbados,BB,BRB,BRB,Upper Income
+North America,Belize,BZ,BLZ,BLZ,Lower Income
+North America,Canada,CA,CAN,CAN,Upper Income
+North America,Costa Rica,CR,CRI,CRI,Upper Income
+North America,Cuba,CU,CUB,CUB,Lower Income
+North America,Dominica,DM,DMA,DMA,Lower Income
+North America,Dominican Republic,DO,DOM,DOM,Lower Income
+North America,El Salvador,SV,SLV,SLV,Lower Income
+North America,Grenada,GD,GRD,GRD,Lower Income
+North America,Guatemala,GT,GTM,GTM,Lower Income
+North America,Haiti,HT,HTI,HTI,Lower Income
+North America,Honduras,HN,HND,HND,Lower Income
+North America,Jamaica,JM,JAM,JAM,Lower Income
+North America,Mexico,MX,MEX,MEX,Lower Income
+North America,Nicaragua,NI,NIC,NIC,Lower Income
+North America,Panama,PA,PAN,PAN,Upper Income
+North America,Saint Kitts and Nevis,KN,KNA,KNA,Upper Income
+North America,Saint Lucia,LC,LCA,LCA,Lower Income
+North America,Saint Vincent and the Grenadines,VC,VCT,VCT,Lower Income
+North America,Trinidad and Tobago,TT,TTO,TTO,Upper Income
+North America,United States,US,USA,USA,Upper Income
+Oceania,Australia,AU,AUS,AUS,Upper Income
+Oceania,Fiji,FJ,FJI,FJI,Lower Income
+Oceania,Kiribati,KI,KIR,KIR,Lower Income
+Oceania,Marshall Islands,MH,MHL,MHL,Lower Income
+Oceania,Micronesia,FM,FSM,FSM,Lower Income
+Oceania,Nauru,NR,NRU,NRU,Upper Income
+Oceania,New Zealand,NZ,NZL,NZL,Upper Income
+Oceania,Palau,PW,PLW,PLW,Upper Income
+Oceania,Papua New Guinea,PG,PNG,PNG,Lower Income
+Oceania,Samoa,WS,WSM,WSM,Lower Income
+Oceania,Solomon Islands,SB,SLB,SLB,Lower Income
+Oceania,Tonga,TO,TON,TON,Lower Income
+Oceania,Tuvalu,TV,TUV,TUV,Lower Income
+Oceania,Vanuatu,VU,VUT,VUT,Lower Income
+South America,Argentina,AR,ARG,ARG,Lower Income
+South America,Bolivia,BO,BOL,BOL,Lower Income
+South America,Brazil,BR,BRA,BRA,Lower Income
+South America,Chile,CL,CHL,CHL,Upper Income
+South America,Colombia,CO,COL,COL,Lower Income
+South America,Ecuador,EC,ECU,ECU,Lower Income
+South America,Guyana,GY,GUY,GUY,Upper Income
+South America,Paraguay,PY,PRY,PRY,Lower Income
+South America,Peru,PE,PER,PER,Lower Income
+South America,Suriname,SR,SUR,SUR,Lower Income
+South America,Uruguay,UY,URY,URY,Upper Income
+South America,Venezuela,VE,VEN,VEN,Upper Income

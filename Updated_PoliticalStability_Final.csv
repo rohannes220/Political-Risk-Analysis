@@ -1,0 +1,195 @@
+Country,Country Code,2022 [YR2022],Classification
+Afghanistan,AFG,-2.5508017539978,Lower Income
+Albania,ALB,0.114945493638515,Lower Income
+Algeria,DZA,-0.741771519184113,Lower Income
+Andorra,AND,1.58773648738861,Upper Income
+Angola,AGO,-0.646240890026093,Lower Income
+Antigua and Barbuda,ATG,0.94386225938797,Upper Income
+Argentina,ARG,-0.0091632818803191,Lower Income
+Armenia,ARM,-0.797183930873871,Lower Income
+Australia,AUS,0.933572053909302,Upper Income
+Austria,AUT,0.637995362281799,Upper Income
+Azerbaijan,AZE,-0.931885719299316,Lower Income
+Bahamas,BHS,0.883432567119598,Upper Income
+Bahrain,BHR,-0.407028496265411,Upper Income
+Bangladesh,BGD,-1.09237110614777,Lower Income
+Barbados,BRB,1.15202713012695,Upper Income
+Belarus,BLR,-0.79387354850769,Lower Income
+Belgium,BEL,0.575668811798096,Upper Income
+Belize,BLZ,0.426349759101868,Lower Income
+Benin,BEN,-0.349461376667023,Lower Income
+Bhutan,BTN,0.86481773853302,Lower Income
+Bolivia,BOL,-0.283260941505432,Lower Income
+Bosnia and Herzegovina,BIH,-0.439371019601822,Lower Income
+Botswana,BWA,1.07751607894897,Lower Income
+Brazil,BRA,-0.331465899944305,Lower Income
+Brunei,BRN,1.25736796855927,Upper Income
+Bulgaria,BGR,0.246252059936523,Upper Income
+Burkina Faso,BFA,-1.7825174331665,Lower Income
+Burundi,BDI,-1.18886947631836,Lower Income
+Cape Verde,CPV,0.929428398609161,Lower Income
+Cambodia,KHM,-0.0361724458634853,Lower Income
+Cameroon,CMR,-1.35294902324677,Lower Income
+Canada,CAN,0.772814035415649,Upper Income
+Central African Republic,CAF,-2.16247296333313,Lower Income
+Chad,TCD,-1.48370337486267,Lower Income
+Chile,CHL,0.118578858673573,Upper Income
+China,CHN,-0.441073626279831,Upper Income
+Colombia,COL,-0.641925930976868,Lower Income
+Comoros,COM,-0.230514869093895,Lower Income
+DR Congo,COD,-1.97774624824524,Lower Income
+Republic of the Congo,COG,-0.0169060137122869,Lower Income
+Costa Rica,CRI,0.954446792602539,Upper Income
+Ivory Coast,CIV,-0.51637864112854,Lower Income
+Croatia,HRV,0.61216127872467,Upper Income
+Cuba,CUB,0.49952158331871,Lower Income
+Cyprus,CYP,0.418635070323944,Upper Income
+Czech Republic,CZE,0.815441370010376,Upper Income
+Denmark,DNK,0.86500883102417,Upper Income
+Djibouti,DJI,-0.508419454097748,Lower Income
+Dominica,DMA,1.29823231697083,Lower Income
+Dominican Republic,DOM,0.328113049268723,Lower Income
+Ecuador,ECU,-0.239295244216919,Lower Income
+Egypt,EGY,-1.02805662155151,Lower Income
+El Salvador,SLV,-0.153124496340752,Lower Income
+Equatorial Guinea,GNQ,-0.0742535442113876,Lower Income
+Eritrea,ERI,-0.970292985439301,Lower Income
+Estonia,EST,0.723720729351044,Upper Income
+Eswatini,SWZ,-0.249723330140114,Lower Income
+Ethiopia,ETH,-2.03806757926941,Lower Income
+Fiji,FJI,0.764339506626129,Lower Income
+Finland,FIN,0.891491711139679,Upper Income
+France,FRA,0.334524124860764,Upper Income
+Gabon,GAB,0.0698951333761215,Lower Income
+Gambia,GMB,0.0458285696804523,Lower Income
+Georgia,GEO,-0.440949499607086,Lower Income
+Germany,DEU,0.614759147167206,Upper Income
+Ghana,GHA,-0.0659129694104195,Lower Income
+Greece,GRC,0.0643030628561974,Upper Income
+Grenada,GRD,1.04379844665527,Lower Income
+Guatemala,GTM,-0.30497133731842,Lower Income
+Guinea,GIN,-0.864391386508942,Lower Income
+Guinea-Bissau,GNB,-0.394830405712128,Lower Income
+Guyana,GUY,0.0270621627569199,Upper Income
+Haiti,HTI,-1.4062956571579,Lower Income
+Honduras,HND,-0.552035331726074,Lower Income
+Hong Kong,HKG,0.61155503988266,Upper Income
+Hungary,HUN,0.635951280593872,Upper Income
+Iceland,ISL,1.26293528079987,Upper Income
+India,IND,-0.568608164787292,Lower Income
+Indonesia,IDN,-0.439423859119415,Lower Income
+Iran,IRN,-1.58643913269043,Lower Income
+Iraq,IRQ,-2.47392463684082,Lower Income
+Ireland,IRL,0.881889522075653,Upper Income
+Israel,ISR,-1.285315990448,Upper Income
+Italy,ITA,0.413505375385284,Upper Income
+Jamaica,JAM,0.379746347665787,Lower Income
+Japan,JPN,1.07391095161438,Upper Income
+Jordan,JOR,-0.296307682991028,Lower Income
+Kazakhstan,KAZ,-0.356833428144455,Lower Income
+Kenya,KEN,-0.943087220191956,Lower Income
+Kiribati,KIR,1.11602663993835,Lower Income
+North Korea,PRK,-0.412224322557449,Lower Income
+South Korea,KOR,0.56241101026535,Upper Income
+Kuwait,KWT,0.28121742606163,Upper Income
+Kyrgyzstan,KGZ,-0.54657906293869,Lower Income
+Laos,LAO,0.802727520465851,Lower Income
+Latvia,LVA,0.480724364519119,Upper Income
+Lebanon,LBN,-1.47351241111755,Lower Income
+Lesotho,LSO,-0.134738370776176,Lower Income
+Liberia,LBR,-0.291599869728088,Lower Income
+Libya,LBY,-2.19796347618103,Lower Income
+Liechtenstein,LIE,1.64433610439301,Upper Income
+Lithuania,LTU,0.653739511966705,Upper Income
+Luxembourg,LUX,1.06388890743256,Upper Income
+Madagascar,MDG,-0.531038582324982,Lower Income
+Malawi,MWI,-0.152863919734955,Lower Income
+Malaysia,MYS,0.140358164906502,Lower Income
+Maldives,MDV,0.667752325534821,Lower Income
+Mali,MLI,-2.47940897941589,Lower Income
+Malta,MLT,0.913422584533691,Upper Income
+Marshall Islands,MHL,1.05626726150513,Lower Income
+Mauritania,MRT,-0.507473766803741,Lower Income
+Mauritius,MUS,0.835721731185913,Lower Income
+Mexico,MEX,-0.691959738731384,Lower Income
+Micronesia,FSM,1.21048414707184,Lower Income
+Moldova,MDA,-0.668324410915375,Lower Income
+Monaco,MCO,1.20484304428101,Lower Income
+Mongolia,MNG,0.533999085426331,Lower Income
+Montenegro,MNE,-0.0591769814491272,Lower Income
+Morocco,MAR,-0.319889187812805,Lower Income
+Mozambique,MOZ,-1.28796994686127,Lower Income
+Myanmar,MMR,-2.21174263954163,Lower Income
+Nauru,NRU,0.880902826786041,Upper Income
+Nepal,NPL,-0.251907497644424,Lower Income
+Netherlands,NLD,0.717304825782776,Upper Income
+New Zealand,NZL,1.31238234043121,Upper Income
+Nicaragua,NIC,-0.34842848777771,Lower Income
+Niger,NER,-1.47217929363251,Lower Income
+Nigeria,NGA,-1.79814147949219,Lower Income
+North Macedonia,MKD,0.11759065836668,Lower Income
+Norway,NOR,0.860958337783813,Upper Income
+Oman,OMN,0.529911398887634,Upper Income
+Pakistan,PAK,-1.90026199817657,Lower Income
+Palau,PLW,1.09686291217804,Upper Income
+Panama,PAN,0.297832071781158,Upper Income
+Papua New Guinea,PNG,-0.609061777591705,Lower Income
+Paraguay,PRY,0.0359779521822929,Lower Income
+Peru,PER,-0.446338385343552,Lower Income
+Philippines,PHL,-0.712976396083832,Lower Income
+Poland,POL,0.500283241271973,Upper Income
+Portugal,PRT,0.860719680786133,Upper Income
+Qatar,QAT,0.958558142185211,Upper Income
+Romania,ROU,0.488021969795227,Upper Income
+Russia,RUS,-0.918995440006256,Upper Income
+Rwanda,RWA,0.0305139776319265,Lower Income
+Samoa,WSM,1.07860910892487,Lower Income
+San Marino,SMR,1.20484304428101,Upper Income
+Sao Tome and Principe,STP,0.607801914215088,Lower Income
+Saudi Arabia,SAU,-0.362989008426666,Upper Income
+Senegal,SEN,-0.15329946577549,Lower Income
+Serbia,SRB,-0.172904297709465,Lower Income
+Seychelles,SYC,0.756404340267181,Lower Income
+Sierra Leone,SLE,-0.0895016714930534,Lower Income
+Singapore,SGP,1.45994246006012,Upper Income
+Slovakia,SVK,0.44343426823616,Upper Income
+Slovenia,SVN,0.706639647483826,Upper Income
+Solomon Islands,SLB,0.379514664411545,Lower Income
+Somalia,SOM,-2.48343443870544,Lower Income
+South Africa,ZAF,-0.722118079662323,Lower Income
+South Sudan,SSD,-2.21005392074585,Lower Income
+Spain,ESP,0.265326976776123,Upper Income
+Sri Lanka,LKA,-0.785569846630096,Lower Income
+Saint Kitts and Nevis,KNA,0.94386225938797,Upper Income
+Saint Lucia,LCA,0.869225919246674,Lower Income
+Saint Vincent and the Grenadines,VCT,1.04379844665527,Lower Income
+Sudan,SDN,-1.99889421463013,Lower Income
+Suriname,SUR,0.39629203081131,Lower Income
+Sweden,SWE,0.902623057365417,Upper Income
+Switzerland,CHE,1.16113972663879,Upper Income
+Syria,SYR,-2.79725193977356,Lower Income
+Taiwan,TWN,0.754162132740021,Lower Income
+Tajikistan,TJK,-0.694840013980865,Lower Income
+Tanzania,TZA,-0.265859961509705,Lower Income
+Thailand,THA,-0.383099317550659,Lower Income
+Timor-Leste,TLS,0.27340030670166,Lower Income
+Togo,TGO,-0.711050152778625,Lower Income
+Tonga,TON,1.11424672603607,Lower Income
+Trinidad and Tobago,TTO,0.357974648475647,Upper Income
+Tunisia,TUN,-0.596295177936554,Lower Income
+Turkey,TUR,-1.03986501693726,Lower Income
+Turkmenistan,TKM,-0.100280806422234,Lower Income
+Tuvalu,TUV,1.18453228473663,Lower Income
+Uganda,UGA,-0.807034194469452,Lower Income
+Ukraine,UKR,-1.99760496616364,Lower Income
+United Arab Emirates,ARE,0.700785338878632,Upper Income
+United Kingdom,GBR,0.503939092159271,Upper Income
+United States,USA,-0.0360050275921822,Upper Income
+Uruguay,URY,1.09546458721161,Upper Income
+Uzbekistan,UZB,-0.196214869618416,Lower Income
+Vanuatu,VUT,0.949675500392914,Lower Income
+Venezuela,VEN,-1.25646221637726,Upper Income
+Vietnam,VNM,-0.0305646620690823,Lower Income
+Yemen,YEM,-2.47688031196594,Lower Income
+Zambia,ZMB,0.102313563227654,Lower Income
+Zimbabwe,ZWE,-0.884499907493591,Lower Income
